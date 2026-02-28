@@ -8,7 +8,7 @@ This project demonstrates practical understanding of modern UI development by re
 ## 🌐 Live Demo  
 
 🔗 GitHub Pages:
-👉 https://agarwalujala3-lang.github.io/Amazon-Clone-UI/
+👉 [(https://agarwalujala3-lang.github.io/Amazon-UI-Clone/)](https://agarwalujala3-lang.github.io/Amazon-UI-Clone/)
 
 
 ## 🎯 Project Objective
