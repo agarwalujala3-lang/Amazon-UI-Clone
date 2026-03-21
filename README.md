@@ -7,7 +7,6 @@ This project focuses on recreating a familiar production-style e-commerce interf
 ## Live Demo
 
 - GitHub Pages: [https://agarwalujala3-lang.github.io/Amazon-UI-Clone/](https://agarwalujala3-lang.github.io/Amazon-UI-Clone/)
-- Project preview recording: [Watch demo](./images/Screen%20Recording%202026-02-04%20163818.mp4)
 
 ## What This Project Includes
 
