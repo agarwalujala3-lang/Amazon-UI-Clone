@@ -6,6 +6,7 @@ This project focuses on recreating a familiar production-style e-commerce interf
 
 ## Live Demo
 
+- AWS CloudFront: [https://d22imnrsdj0eeu.cloudfront.net](https://d22imnrsdj0eeu.cloudfront.net)
 - GitHub Pages: [https://agarwalujala3-lang.github.io/Amazon-UI-Clone/](https://agarwalujala3-lang.github.io/Amazon-UI-Clone/)
 
 ## What This Project Includes
@@ -24,6 +25,8 @@ This project focuses on recreating a familiar production-style e-commerce interf
 - CSS3
 - Font Awesome
 - Git and GitHub
+- AWS S3
+- AWS CloudFront
 - GitHub Pages
 
 ## Why I Built It
