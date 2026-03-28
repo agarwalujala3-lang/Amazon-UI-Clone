@@ -1,0 +1,83 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="134" y1="84" x2="1478" y2="876" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1522"/>
+      <stop offset="0.55" stop-color="#142133"/>
+      <stop offset="1" stop-color="#0B111B"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="910" y1="130" x2="1410" y2="676" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB547"/>
+      <stop offset="1" stop-color="#FF7A18"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1227 214) rotate(133.4) scale(439.482 255.913)">
+      <stop stop-color="#FFC86B" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#FFC86B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="760" y="116" width="696" height="638" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feOffset dy="18"/>
+      <feGaussianBlur stdDeviation="22"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.027451 0 0 0 0 0.0431373 0 0 0 0 0.0705882 0 0 0 0.48 0"/>
+      <feBlend in2="SourceGraphic" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <ellipse cx="1240" cy="228" rx="272" ry="154" fill="url(#glow)"/>
+
+  <text x="92" y="102" fill="#FFC46A" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="0.24em">FRONTEND CLONE PROJECT</text>
+  <text x="92" y="224" fill="#F6F8FC" font-family="Segoe UI, Arial, sans-serif" font-size="88" font-weight="800">Amazon UI Clone</text>
+  <text x="92" y="292" fill="#B6C3D2" font-family="Segoe UI, Arial, sans-serif" font-size="33" font-weight="500">Hand-built e-commerce homepage recreation with pure HTML and CSS</text>
+
+  <text x="92" y="394" fill="#EAF0F6" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Designed to replicate a dense commercial homepage with reusable</text>
+  <text x="92" y="434" fill="#EAF0F6" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">sections, navigation structure, product cards, and footer layout.</text>
+
+  <g>
+    <rect x="92" y="509" width="178" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="146" y="546" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Pure HTML</text>
+
+    <rect x="290" y="509" width="164" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="344" y="546" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Pure CSS</text>
+
+    <rect x="474" y="509" width="192" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="520" y="546" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Layout practice</text>
+  </g>
+
+  <g>
+    <rect x="92" y="599" width="184" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="140" y="636" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Static deploy</text>
+
+    <rect x="296" y="599" width="198" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="339" y="636" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">UI replication</text>
+
+    <rect x="514" y="599" width="178" height="58" rx="29" fill="#182436" stroke="#2F4764"/>
+    <text x="564" y="636" fill="#F6FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Responsive</text>
+  </g>
+
+  <text x="92" y="798" fill="#91A8BE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">github.com/agarwalujala3-lang/Amazon-UI-Clone</text>
+  <text x="92" y="840" fill="#BFCFDE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">Live on GitHub Pages and AWS CloudFront</text>
+
+  <g filter="url(#shadow)">
+    <rect x="812" y="136" width="592" height="534" rx="34" fill="#111B29" stroke="#2B3D52"/>
+    <rect x="850" y="174" width="516" height="54" rx="18" fill="#1A2738" stroke="#334A65"/>
+    <circle cx="888" cy="201" r="8" fill="#FFB547"/>
+    <circle cx="912" cy="201" r="8" fill="#FF8C32"/>
+    <circle cx="936" cy="201" r="8" fill="#FFD07A"/>
+    <rect x="978" y="188" width="322" height="26" rx="13" fill="#24384F"/>
+
+    <rect x="850" y="260" width="516" height="138" rx="28" fill="url(#warm)"/>
+    <text x="888" y="318" fill="#101317" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Hero section + navigation + promotions</text>
+    <text x="888" y="356" fill="#1C232A" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Clean static layout recreation inspired by a real commerce homepage</text>
+
+    <rect x="850" y="432" width="152" height="154" rx="24" fill="#182436" stroke="#30455E"/>
+    <rect x="1032" y="432" width="152" height="154" rx="24" fill="#182436" stroke="#30455E"/>
+    <rect x="1214" y="432" width="152" height="154" rx="24" fill="#182436" stroke="#30455E"/>
+
+    <rect x="874" y="454" width="104" height="68" rx="18" fill="#24374D"/>
+    <rect x="1056" y="454" width="104" height="68" rx="18" fill="#24374D"/>
+    <rect x="1238" y="454" width="104" height="68" rx="18" fill="#24374D"/>
+
+    <text x="887" y="553" fill="#F5FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Grid cards</text>
+    <text x="1067" y="553" fill="#F5FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Footer</text>
+    <text x="1245" y="553" fill="#F5FAFF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700">Sections</text>
+  </g>
+</svg>
