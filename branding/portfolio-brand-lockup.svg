@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+  <title id="title">Amazon UI Clone logo</title>
+  <desc id="desc">Amazon UI Clone wordmark with a dark AZ commerce-style brand mark.</desc>
+  <defs>
+    <linearGradient id="azLockBg" x1="28" y1="22" x2="132" y2="144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101826"/>
+      <stop offset="1" stop-color="#1a2738"/>
+    </linearGradient>
+    <linearGradient id="azLockArc" x1="45" y1="98" x2="124" y2="121" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffb547"/>
+      <stop offset="1" stop-color="#ff7a18"/>
+    </linearGradient>
+    <linearGradient id="azLockText" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="1" stop-color="#d6e3f0"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="18" width="124" height="124" rx="30" fill="url(#azLockBg)" stroke="#314760" stroke-width="2"/>
+  <text x="82" y="78" text-anchor="middle" fill="#f6f8fc" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="31" font-weight="800" letter-spacing="4">AZ</text>
+  <path d="M42 99c13 15 32 22 56 22 11 0 22-1 31-4" fill="none" stroke="url(#azLockArc)" stroke-linecap="round" stroke-width="7"/>
+  <path d="M118 108l11 8-14 4" fill="none" stroke="#ff9a2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/>
+  <text x="182" y="82" fill="url(#azLockText)" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="54" font-weight="800">Amazon UI Clone</text>
+  <text x="184" y="116" fill="#91a8be" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="1">commerce layout recreation</text>
+</svg>

@@ -1,0 +1,51 @@
+{
+  "enabled": true,
+  "id": "amazon-ui-clone",
+  "title": "Amazon UI Clone",
+  "kind": "Frontend Build",
+  "status": "Live",
+  "priority": 82,
+  "featured": true,
+  "lensPriority": {
+    "recruiter": 82,
+    "engineer": 74,
+    "founder": 95,
+    "friend": 86
+  },
+  "tags": ["frontend", "ui", "live"],
+  "stack": ["HTML", "CSS"],
+  "summary": "I built this frontend recreation of Amazon's homepage to sharpen my layout control, section composition, and dense commercial UI structuring.",
+  "proof": "This project proves visual composition discipline, spacing control, and my ability to recreate complex real-world layouts cleanly.",
+  "details": [
+    "I focused on layout recreation and visual fidelity.",
+    "It strengthened my understanding of dense navigation and catalog-style interfaces."
+  ],
+  "architecture": [
+    "Static HTML sections define the structure.",
+    "CSS handles layout, spacing, and responsive adjustments.",
+    "Deployment through CloudFront keeps it accessible as a live demo."
+  ],
+  "tradeoff": "This build is intentionally frontend-only; its strength is UI control, not backend depth.",
+  "badge": "Interface study",
+  "icon": "AZ",
+  "iconImage": "https://raw.githubusercontent.com/agarwalujala3-lang/Amazon-UI-Clone/main/branding/portfolio-brand-mark.svg",
+  "lockupImage": "https://raw.githubusercontent.com/agarwalujala3-lang/Amazon-UI-Clone/main/branding/portfolio-brand-lockup.svg",
+  "links": {
+    "live": "https://d22imnrsdj0eeu.cloudfront.net"
+  },
+  "theme": {
+    "surface1": "rgba(252, 247, 239, 0.96)",
+    "surface2": "rgba(246, 237, 224, 0.94)",
+    "ring": "rgba(184, 128, 52, 0.16)",
+    "glow": "rgba(238, 180, 72, 0.18)",
+    "glowSoft": "rgba(217, 147, 74, 0.16)",
+    "accentStrong": "#9c6222",
+    "accentSoft": "rgba(156, 98, 34, 0.12)",
+    "badgeBg": "rgba(156, 98, 34, 0.09)",
+    "badgeBorder": "rgba(156, 98, 34, 0.16)",
+    "proofBg": "linear-gradient(135deg, rgba(242, 183, 73, 0.14), rgba(215, 136, 52, 0.1))",
+    "signalBg": "rgba(255, 251, 245, 0.76)",
+    "signalBorder": "rgba(184, 128, 52, 0.12)",
+    "iconBg": "linear-gradient(145deg, rgba(255, 243, 220, 1), rgba(246, 224, 185, 0.98))"
+  }
+}
